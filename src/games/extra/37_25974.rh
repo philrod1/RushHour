@@ -1,0 +1,11 @@
+car	1 0 rotate
+car	2 0
+car	4 0 rotate
+car	5 0 rotate
+car	2 1
+redcar	0 2
+car	3 2 rotate
+car	4 2 rotate
+car	5 2 rotate
+car	0 4 rotate
+car	3 4 rotate

@@ -1,0 +1,10 @@
+car	2 0 rotate
+truck	3 1 rotate
+redcar	0 2
+car	2 2 rotate
+truck	4 2 rotate
+car	0 3
+truck	5 3 rotate
+car	1 4 rotate
+car	2 4
+truck	2 5
